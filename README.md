@@ -1,3 +1,3 @@
 # QuintaMatildeWebsite
 
-Index LISTO Cambiar fotos
+Avanzado mayor parte, definir productos finales, fotos de estos y datos de cada pagina individual
