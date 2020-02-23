@@ -519,8 +519,17 @@ header .main-header {
 }
 
 .main-header .button-skin {
-	background: #902367; /* #A3C145; */
-	border: 2px solid #902367; /* #A3C145; */
+	background: #902367;
+	/* #A3C145; */
+	border: 2px solid #902367;
+	/* #A3C145; */
+}
+
+.button-skin-4 {
+	background: #902367;
+	/* #A3C145; */
+	border: 2px solid #902367;
+	/* #A3C145; */
 }
 
 .main-header .button-skin:hover {
@@ -784,7 +793,8 @@ header .main-header {
 }
 
 .content-box.box-3 .testimonial-cards .tcards_message {
-	background-color: #902367; /* #a3c145; */
+	background-color: #902367;
+	/* #a3c145; */
 	border: 0 none;
 	border-radius: 0;
 	margin-bottom: 30px;
@@ -835,7 +845,8 @@ header .main-header {
 }
 
 .content-box.box-3 .testimonial-cards .tcards_message.author-bottom:before {
-	border-top-color: #902367;/* #a3c145; */
+	border-top-color: #902367;
+	/* #a3c145; */
 }
 
 /* ---------------------------------------------------------------------------- */
@@ -1325,10 +1336,12 @@ footer .bottom-footer {
 }
 
 .button-skin {
-	background: #338851;/* #111; */
+	background: #338851;
+	/* #111; */
 	color: #fff;
 	padding: 5px 30px;
-	border: 2px solid #338851;/* #111; */
+	border: 2px solid #338851;
+	/* #111; */
 	letter-spacing: 2.5px;
 	text-transform: uppercase;
 	font-weight: 300;
@@ -1336,8 +1349,10 @@ footer .bottom-footer {
 
 .button-skin:hover {
 	background: transparent;
-	color: #338851;/* #111; */
-	border: 2px solid #338851;/* #111; */
+	color: #338851;
+	/* #111; */
+	border: 2px solid #338851;
+	/* #111; */
 }
 
 .button-toTop {
@@ -1483,7 +1498,8 @@ footer .bottom-footer {
 .crumbs ul li a {
 	display: block;
 	float: left;
-	background: #902367;/* #A3C145; */
+	background: #902367;
+	/* #A3C145; */
 	text-align: center;
 	padding: 7px 30px 8px 40px;
 	position: relative;
@@ -1497,7 +1513,8 @@ footer .bottom-footer {
 	content: "";
 	border-top: 20px solid transparent;
 	border-bottom: 20px solid transparent;
-	border-left: 20px solid #902367;/* #A3C145; */
+	border-left: 20px solid #902367;
+	/* #A3C145; */
 	position: absolute;
 	right: -20px;
 	top: 0;
